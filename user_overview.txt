@@ -1,0 +1,24 @@
+The percent of tasks assigned to the user:   66.66666666666666%
+The number of tasks each user has:           2
+The percent of tasks that are complete:      0.0%
+The percent of tasks that are incomplete:    0.0%
+Tasks of the user that are overdue:          0
+
+The percent of tasks assigned to the user:   33.33333333333333%
+The number of tasks each user has:           1
+The percent of tasks that are complete:      0.0%
+The percent of tasks that are incomplete:    0.0%
+Tasks of the user that are overdue:          0
+
+The percent of tasks assigned to the user:   66.66666666666666%
+The number of tasks each user has:           2
+The percent of tasks that are complete:      0.0%
+The percent of tasks that are incomplete:    0.0%
+Tasks of the user that are overdue:          0
+
+The percent of tasks assigned to the user:   33.33333333333333%
+The number of tasks each user has:           1
+The percent of tasks that are complete:      0.0%
+The percent of tasks that are incomplete:    0.0%
+Tasks of the user that are overdue:          0
+
